@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcellinP
 - 👀 I’m interested in  the web dev
-- 🌱 I’m currently learning  a studen
+- 🌱 I’m currently learning at Supdeco Dakar
 - 📫 How to reach me  :  marcellin.pouyou@supdeco.edu.sn
 
 <!---
